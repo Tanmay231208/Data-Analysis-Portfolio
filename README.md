@@ -22,9 +22,6 @@ Each project includes the dataset (when publicly available), analysis notebooks,
 * Python
 * Pandas
 * NumPy
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
 * SQL
 * Microsoft Excel
 * Power BI (where applicable)
