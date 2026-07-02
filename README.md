@@ -31,36 +31,6 @@ Each project includes the dataset (when publicly available), analysis notebooks,
 
 ---
 
-## 📂 Repository Structure
-
-```
-Data-Analysis-Portfolio/
-│
-├── Project-1/
-│   ├── data/
-│   ├── notebook.ipynb
-│   ├── images/
-│   └── README.md
-│
-├── Project-2/
-│   ├── data/
-│   ├── notebook.ipynb
-│   ├── images/
-│   └── README.md
-│
-└── README.md
-```
-
----
-
-## 📌 Projects
-
-| Project         | Description                                   | Skills                        |
-| --------------- | --------------------------------------------- | ----------------------------- |
-| *(Coming Soon)* | Projects will be added as they are completed. | Python, Pandas, Visualization |
-
----
-
 ## 🎯 Goals
 
 This repository is intended to:
@@ -69,20 +39,6 @@ This repository is intended to:
 * Practice solving real-world business problems
 * Improve analytical and visualization skills
 * Document my learning journey
-
----
-
-## 📈 What You'll Find
-
-Each project typically includes:
-
-* Problem Statement
-* Dataset Information
-* Data Cleaning Process
-* Exploratory Data Analysis
-* Visualizations
-* Key Insights
-* Conclusions
 
 ---
 
